@@ -1,0 +1,4 @@
+Para executar Projeto:
+
+1. Instalar Node e NPM em seu computador
+2. No diretório do projet executar npm install, no arquivo package.json já temos todas as depêndencias necessárias para o projeto.
