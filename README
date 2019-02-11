@@ -1,5 +1,6 @@
 Para executar Projeto:
 
 1. Instalar Node e NPM em seu computador
-2. No diretório do projet executar npm install no terminal, no arquivo package.json já temos todas as depêndencias necessárias para o projeto.
-3. No diretório do projet executar no terminal: ./node_modules/.bin/cucumber-js
+2. No diretório do projeto executar os seguintes comandos:
+   - npm test
+   - npm run report_html
